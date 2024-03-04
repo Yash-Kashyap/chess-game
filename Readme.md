@@ -19,4 +19,4 @@
 - Run the index.html file
 - Start Playing!!!
 
-#### try it here :
+#### try it here : https://yash-kashyap.github.io/chess-game/
